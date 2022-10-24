@@ -42,7 +42,7 @@ class _MyHomePageState extends State<MyHomePage> {
     int oca = ca;
     int tc = int.parse(_tcController.text);
     ctag = 0;
-    while ((ca / tc) * 100 != 75) {
+    while ((ca / tc) * 100 < 75) {
       ca++;
       tc++;
     }
