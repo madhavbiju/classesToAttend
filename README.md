@@ -1,16 +1,10 @@
-# cta
+# classesToAttend();
 
-A new Flutter project.
+Bunked too much classes? Need to know how many more classes you need to attend in order to make it to 75%? Well let me make that easier for ya.
+cTa is a simple flutter based application which takes in the number of classes you attended vs the total number of classes so far taught and tells you how many classes you need to attend inorder to make your attendance percentage 75.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+Download and install the app using the apk from the
+[Releases Page](#)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
