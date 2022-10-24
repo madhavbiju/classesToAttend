@@ -8,5 +8,5 @@ cTa is a simple flutter based application which takes in the number of classes y
 ## Installation
 
 Download and install the app using the apk from the
-[Releases Page](#)
+[Releases](https://github.com/madhavbiju/classesToAttend/releases) page
 
